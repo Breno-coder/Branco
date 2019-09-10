@@ -1,0 +1,11 @@
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\bin\Debug\WindowsForm-Project-Introdução.exe.config
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\bin\Debug\WindowsForm-Project-Introdução.exe
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\bin\Debug\WindowsForm-Project-Introdução.pdb
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\obj\Debug\WindowsForm-Project-Introdução.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\obj\Debug\WindowsForm_Project_Introdução.Properties.Resources.resources
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\obj\Debug\WindowsForm-Project-Introdução.csproj.GenerateResource.cache
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\obj\Debug\WindowsForm-Project-Introdução.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\obj\Debug\WindowsForm-Project-Introdução.exe
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\obj\Debug\WindowsForm-Project-Introdução.pdb
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\obj\Debug\WindowsForm_Project_Introdução.Calculadora.resources
+C:\Users\Cliente\Documents\Breno\POO\WindowsForm-Project-Introdução\WindowsForm-Project-Introdução\obj\Debug\WindowsForm_Project_Introdução.Principal.resources
